@@ -1,0 +1,56 @@
+﻿  Brezenhem.cpp
+  Model.cpp
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,27): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,19): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,39): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,32): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(11,38): error C2614: Model: недопустимая инициализация члена: "verts_" не является базовым классом или членом
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(11,48): error C2614: Model: недопустимая инициализация члена: "faces_" не является базовым классом или членом
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(24,13): error C2065: verts_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(34,13): error C2065: faces_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(37,24): error C2065: verts_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(37,51): error C2065: faces_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(44,17): error C2065: verts_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(48,17): error C2065: faces_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(51,25): error C2039: face: не является членом "Model"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(4): message : см. объявление "Model"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(52,12): error C2065: faces_: необъявленный идентификатор
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.cpp(56,12): error C2065: verts_: необъявленный идентификатор
+  main.cpp
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(6,27): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,19): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(7,39): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,7): error C2039: vector: не является членом "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : см. объявление "std"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(14,32): error C2238: непредвиденные лексемы перед ";"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\WavefrontVisualizer.h(8,44): error C2039: face: не является членом "Model"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\Model.h(4): message : см. объявление "Model"
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\WavefrontVisualizer.h(12,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\WavefrontVisualizer.h(13,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\WavefrontVisualizer.h(14,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\NaUKMA\CompGraphics\OpenCVProj\OpenCV\Project2\WavefrontVisualizer.h(15,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
